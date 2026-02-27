@@ -48,23 +48,6 @@ Each analytical component developed under this framework is designed to be trans
 
 ---
 
-## Methodological Scope
-
-Projects under this framework may include:
-
-- Comparative evaluation of statistical and machine learning methods  
-- Model validation and transportability frameworks  
-- Federated and privacy-preserving analytics  
-- Explainable and transparent AI for clinical epidemiology  
-- Meta-learning and cross-outbreak knowledge transfer  
-- Generative AI for structured reporting and insight synthesis  
-- Synthetic data generation for simulation and testing  
-- Natural language processing for structured data harmonisation  
-
-The scope is intentionally flexible and will evolve as new analytical needs arise.
-
----
-
 ## Alignment with ISARIC Priorities
 
 This framework supports key outbreak research priorities, including:
