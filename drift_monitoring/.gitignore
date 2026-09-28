@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Private/local data - do not commit patient-level data
+data/
+private_data/
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.sav
+*.dta
+*.xlsx
+*.xls
+
+# Large/generated outputs
+outputs/figures/
+*.html
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
